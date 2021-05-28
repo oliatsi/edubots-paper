@@ -124,7 +124,10 @@
   addressref={aff3},
   email={n.h.abbas@leeds.ac.uk}
 ]{\inits{N.}\fnm{Noorhan} \snm{Abbas}}
-
+]{\inits{F.}\fnm{Olia} \snm{Tsivitanidou}}
+\author[
+  addressref={aff4},
+  email={o.tsivitanidou@cyens.org.cy}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%                                          %%
@@ -259,9 +262,9 @@ data <- read.csv("data/survey-student-interaction-pilot-3-2021-EN.csv")
 \section{Introduction}
 
 % TODO: introduction
-The introduction of new technologies in the classroom needs a combination of teacher education, student willingness and (possibly new) skills in both. Some technologies are readily adapted, but some of them take a long time to be adopted. In most cases, the success or failure of the introduction of a new technology impinges on the collaboration of all the implied parties, which is why evaluating attitudes towards them is an essential first step.
+The introduction of new technologies in the classroom needs a combination of teacher education, student willingness and (possibly new) skills in both. Some technologies are readily adapted, but some of them take a long time to be adopted. ). In the Higher Education level, several factors may hamper technology integration, such as, technophobia, lack of time, absence of planning, lack of incentives, lack of evaluation, work saturation, and university accreditation model \cite{Mercader2020}. In most cases, the success or failure of the introduction of a new technology impinges on the collaboration of all the implied parties, which is why evaluating attitudes towards them is an essential first step. Previous research in this research direction, focusing on teachers’ attitudes towards chatbots and factors that explain teachers’ acceptance of chatbots through the dimensions of the Technology Acceptance Model (perceived usefulness and perceived ease of use), has already shown that the perceived easiness and perceived usefulness leads to greater acceptance of chatbots by teachers. As for the chatbots’ features, formal language by a chatbot leads to a higher intention of using them \cite{Chocarro2021}.  
 
-In the framework of the EduBots KA2 European project, we are mainly concerned with the creation of best practices in the use of chatbots in higher education classrooms. A \textit{chatbot} is a program, sometimes based on Artificial Intelligence techniques, that allows a computer to communicate in a similar way as a human does \cite{Gong2008}, using natural language. Indeed, most of them would be, apparently, close to passing a classic Turing test \cite{moor2003turing}, since they are able to answer almost any speaker’s question fluently, and even ask other questions to the human. However, in most cases a simple messaging-application attached bot will help the students (and teachers); neither computational intelligence nor comprehension of natural languages are requisites, the only one being the fact that they can be accessed from a synchronous conversational application such as the common instant messaging applications used nowadays.
+In the framework of the EDUBOTS Erasmus+ KA2 European project, we are mainly concerned with the creation of best practices in the use of chatbots in higher education classrooms. A \textit{chatbot} is a program, sometimes based on Artificial Intelligence techniques, that allows a computer to communicate in a similar way as a human does \cite{Gong2008}, using natural language. Indeed, most of them would be, apparently, close to passing a classic Turing test \cite{moor2003turing}, since they are able to answer almost any speaker’s question fluently, and even ask other questions to the human. However, in most cases a simple messaging-application attached bot will help the students (and teachers); neither computational intelligence nor comprehension of natural languages are requisites, the only one being the fact that they can be accessed from a synchronous conversational application such as the common instant messaging applications used nowadays.
 
 The technology behind chatbots \cite{Gong2008,bradesko2012} has become an usual element in our everyday life, having played an important role in the development of many fields, including education and online tutoring \cite{clarizia2018,Smutny2020}, which is what we are mainly concerned with. These automatic systems ease personalized learning, 
 % Antonio - customized instead personalized? we are repeating 'personalized' twice in a sentence...
